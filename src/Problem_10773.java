@@ -6,7 +6,7 @@ import java.io.OutputStreamWriter;
 import java.nio.Buffer;
 import java.util.Stack;
 
-public class Problem10773 {
+public class Problem_10773 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

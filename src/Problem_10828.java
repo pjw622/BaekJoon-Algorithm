@@ -4,14 +4,12 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Stack;
-import java.util.StringTokenizer;
 
-public class Problem10828 {
+public class Problem_10828 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-		StringTokenizer st ;
 		Stack<Integer> stack = new Stack<>();
 		int inputCnt = Integer.parseInt(br.readLine());
 		for(int i=0; i<inputCnt; i++) {

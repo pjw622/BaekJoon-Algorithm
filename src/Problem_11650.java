@@ -30,7 +30,7 @@ class Point implements Comparable<Point>{
 	}
 }
 
-public class Problem11650 {
+public class Problem_11650 {
 
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
